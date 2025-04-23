@@ -1,5 +1,5 @@
 local LoadingTime = tick()
-local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/G1GX/Collection/refs/heads/main/Dummyhub/Src"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/AZURASTORE8/kuy/refs/heads/main/kuy2"))()
 local Window = Library:CreateWindow({Credit = "pindummy"})
 local Page1 = Window:AddPage({
 	Title = "General",
